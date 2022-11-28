@@ -1,0 +1,4 @@
+// Converting a number into a string with "$" infront for formatting
+export default function formatCurrency(num) {
+    return "$" + Number(num.toFixed(2)).toLocaleString() + " ";
+}

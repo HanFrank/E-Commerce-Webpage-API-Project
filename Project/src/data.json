@@ -1,0 +1,88 @@
+{
+    "products": [
+        {"_id": "Ice cream",
+            "title": "Ice Cream",
+            "image": "/images/Ice Cream.jpg",
+            "description": "It's ice cream",
+            "price": 7,
+            "availableCategories": "Dairy"
+        },
+        {"_id": "Milk",
+            "title": "Neilson - Milk 2%",
+            "image": "/images/Milk.jpg",
+            "description": "It's Milk",
+            "price": 5,
+            "availableCategories": "Dairy"
+        },
+        {"_id": "Yogurt Drink",
+            "title": "Activia Yogurt with Probiotics",
+            "image": "/images/Yogurt Drink.jpg",
+            "description": "It's Yogurt",
+            "price": 2,
+            "availableCategories": "Dairy"
+        },
+        {"_id": "Apple",
+            "title": "Gala Apple",
+            "image": "/images/apple.jpg",
+            "description": "It's an Apple",
+            "price": 0.5,
+            "availableCategories": "Fruit"
+        },
+        {"_id": "Banana",
+            "title": "Bunch of Bananas",
+            "image": "/images/Bananas.jpg",
+            "description": "It's a Banana",
+            "price": 2,
+            "availableCategories": "Fruit"
+        },
+        {"_id": "Peach",
+            "title": "Peach",
+            "image": "/images/peach.jpg",
+            "description": "It's a Peach",
+            "price": 1,
+            "availableCategories": "Fruit"
+        },
+        {"_id": "Pear",
+            "title": "Pear",
+            "image": "/images/Pear.jpg",
+            "description": "It's a Peach",
+            "price": 0.6,
+            "availableCategories": "Fruit"
+        },
+        {"_id": "Chicken Thigh Value Pack",
+            "title": "Chicken Thigh Value Pack",
+            "image": "/images/Chicken Thigh Value Pack.jpg",
+            "description": "It's a Peach",
+            "price": 8,
+            "availableCategories": "Meat"
+        },
+        {"_id": "Ground Pork Value Pack",
+            "title": "Ground Pork Value Pack",
+            "image": "/images/Ground Pork Value Pack.jpg",
+            "description": "It's a Peach",
+            "price": 7,
+            "availableCategories": "Meat"
+        },
+        {"_id": "Lean Ground Beef Value Pack",
+            "title": "Lean Ground Beef Value Pack",
+            "image": "/images/Lean Ground Beef Value Pack.jpg",
+            "description": "It's a Peach",
+            "price": 10,
+            "availableCategories": "Meat"
+        },
+        {"_id": "Cabbage",
+            "title": "Cabbage",
+            "image": "/images/Cabbage.jpg",
+            "description": "It's a Cabbage",
+            "price": 2,
+            "availableCategories": "Vegetables"
+        },
+        {"_id": "Carrot",
+            "title": "Carrot",
+            "image": "/images/carrot.jpg",
+            "description": "It's a Carrot",
+            "price": 0.9,
+            "availableCategories": "Vegetables"
+        }
+    ]
+}
