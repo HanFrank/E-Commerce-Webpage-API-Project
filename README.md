@@ -1,4 +1,4 @@
-# E-Commerce Style Webpage Project
+# E-Commerce Style Webpage and API Project
 
 This is a checkout price calculator.
 
